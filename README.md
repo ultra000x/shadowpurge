@@ -23,8 +23,10 @@
 pkg update && pkg upgrade -y
 pkg install git python -y
 pip install httpx
-
 git clone --depth=1 https://github.com/ultra000x/shadowpurge.git
+```
+**then run
+```
 cd shadowpurge
 git pull
 python run.py
