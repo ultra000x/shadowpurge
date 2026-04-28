@@ -27,7 +27,7 @@ pip install httpx
 git clone --depth=1 https://github.com/ultra000x/shadowpurge.git
 cd shadowpurge
 git pull
-python client.py
+python run.py
 ```
 
 ### Windows / Linux / macOS
@@ -36,7 +36,7 @@ git clone --depth=1 https://github.com/ultra000x/shadowpurge.git
 pip install httpx
 cd shadowpurge
 git pull
-python client.py
+python run.py
 ```
 
 ---
